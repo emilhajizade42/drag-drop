@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    background: #0ea34f;
+    color: #fff;
+    padding: 25px;
+    text-align: center;
+    margin-bottom: 50px;
+    
+}
+input{
+    display: none;
+}
+.table{
+    display: none;
+}
+.fa-solid{
+    cursor: pointer;
+}
